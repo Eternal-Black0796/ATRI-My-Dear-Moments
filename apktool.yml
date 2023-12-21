@@ -1,0 +1,29 @@
+version: 2.9.1
+apkFileName: 1ATRI.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 16
+  targetSdkVersion: 30
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 4
+  versionName: 1.0.1
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  billing.properties: 0
+doNotCompress:
+- classes.dex
+- resources.arsc
+- res/mipmap-anydpi-v26/icon.xml
+- png
+- res/xml/splits0.xml
+- lib/arm64-v8a/libartemis.so
+- assets/boot.ini

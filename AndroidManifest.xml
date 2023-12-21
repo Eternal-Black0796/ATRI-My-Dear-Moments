@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:ns0="http://schemas.android.com/apk/res/android" ns0:compileSdkVersion="23" ns0:compileSdkVersionCodename="6.0-2438415" ns0:installLocation="auto" ns0:versionCode="4" ns0:versionName="1.0.1" package="jp.co.imel.atri_gp" platformBuildVersionCode="30" platformBuildVersionName="11">
+    <uses-permission ns0:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission ns0:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission ns0:name="android.permission.INTERNET"/>
+    <uses-permission ns0:name="com.android.vending.CHECK_LICENSE"/>
+    <uses-permission ns0:name="com.android.vending.BILLING"/>
+    <uses-permission ns0:name="android.permission.FOREGROUND_SERVICE"/>
+    <application ns0:icon="@mipmap/icon" ns0:label="@string/app_name" ns0:name="jp.co.imel.Artemis.App" ns0:usesCleartextTraffic="true">
+        <activity ns0:configChanges="orientation|screenSize" ns0:label="@string/app_name" ns0:launchMode="singleTask" ns0:name="jp.co.imel.Artemis.BootActivity" ns0:screenOrientation="sensorLandscape" ns0:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+            <meta-data ns0:name="android.app.lib_name" ns0:value="artemis"/>
+            <intent-filter>
+                <action ns0:name="android.intent.action.MAIN"/>
+                <category ns0:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <intent-filter>
+                <action ns0:name="android.intent.action.VIEW"/>
+                <category ns0:name="android.intent.category.DEFAULT"/>
+                <category ns0:name="android.intent.category.BROWSABLE"/>
+                <data ns0:host="atri" ns0:scheme="imel"/>
+            </intent-filter>
+        </activity>
+        <activity ns0:configChanges="orientation|screenSize" ns0:label="@string/app_name" ns0:name="com.ies_net.artemis.DownloadActivity" ns0:screenOrientation="sensorLandscape" ns0:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"/>
+        <activity ns0:configChanges="orientation|screenSize" ns0:label="@string/app_name" ns0:name="com.ies_net.artemis.VideoViewActivity" ns0:screenOrientation="sensorLandscape" ns0:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"/>
+        <meta-data ns0:name="com.google.android.play.billingclient.version" ns0:value="3.0.3"/>
+        <activity ns0:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize" ns0:exported="false" ns0:name="com.android.billingclient.api.ProxyBillingActivity" ns0:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity ns0:enabled="false" ns0:exported="false" ns0:launchMode="singleInstance" ns0:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity" ns0:process=":playcore_missing_splits_activity" ns0:stateNotNeeded="true"/>
+        <activity ns0:enabled="false" ns0:exported="false" ns0:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity" ns0:stateNotNeeded="true" ns0:theme="@style/Theme.PlayCore.Transparent"/>
+        <service ns0:enabled="false" ns0:exported="true" ns0:name="com.google.android.play.core.assetpacks.AssetPackExtractionService">
+            <meta-data ns0:name="com.google.android.play.core.assetpacks.versionCode" ns0:value="10901"/>
+        </service>
+        <service ns0:enabled="false" ns0:exported="false" ns0:name="com.google.android.play.core.assetpacks.ExtractionForegroundService"/>
+        <provider ns0:authorities="jp.co.imel.atri_gp.deploygateprovider" ns0:exported="false" ns0:name="com.deploygate.sdk.DeployGateProvider"/>
+        <meta-data ns0:name="com.android.stamp.source" ns0:value="https://play.google.com/store"/>
+        <meta-data ns0:name="com.android.stamp.type" ns0:value="STAMP_TYPE_DISTRIBUTION_APK"/>
+        <meta-data ns0:name="com.android.vending.splits" ns0:resource="@xml/splits0"/>
+        <meta-data ns0:name="com.android.vending.derived.apk.id" ns0:value="16"/>
+        <meta-data ns0:name="com.android.dynamic.apk.fused.modules" ns0:value="base"/>
+    </application>
+</manifest>
