@@ -1,0 +1,74 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: 1nyvkdknPkxPibwutKsTqGAyLZ4=
+
+Name: assets/boot.ini
+SHA1-Digest: v6J7om51GEjMkj0CfbNCKW9Vm9U=
+
+Name: billing.properties
+SHA1-Digest: UlC7FU/2pMufiERVEdQsVFlLspw=
+
+Name: classes.dex
+SHA1-Digest: bg8nlbH6PWlOeouGAALRgeNdvtE=
+
+Name: lib/arm64-v8a/libartemis.so
+SHA1-Digest: 50Z1M1zO7jDj9OF7zUZhGTpU1o4=
+
+Name: res/mipmap-anydpi-v26/icon.xml
+SHA1-Digest: zmslSXhcXNXH3sQvQmqIF0WCHGg=
+
+Name: res/mipmap-hdpi/icon.png
+SHA1-Digest: 2CIB33flYvwP/L/4Q6oRmrcI6DQ=
+
+Name: res/mipmap-hdpi/icon_background.png
+SHA1-Digest: 7pTXaGOSxK8FrMKZx+T/E5+BCIQ=
+
+Name: res/mipmap-hdpi/icon_foreground.png
+SHA1-Digest: lXO2iFVKyz8z2xHqWWAjGHnc74M=
+
+Name: res/mipmap-ldpi/icon.png
+SHA1-Digest: VxcznVmXBKKoA3TWdhT4qpoT77Q=
+
+Name: res/mipmap-mdpi/icon.png
+SHA1-Digest: ZW+ndI/i3doT83B8d2rmzomCeGY=
+
+Name: res/mipmap-mdpi/icon_background.png
+SHA1-Digest: K62mRigIKJNaHDUb6+7SJJOYzAE=
+
+Name: res/mipmap-mdpi/icon_foreground.png
+SHA1-Digest: 0cRb4s7DNGYbLyS1K7JvXn1dKpQ=
+
+Name: res/mipmap-xhdpi/icon.png
+SHA1-Digest: 8aNwaKFIrYbm6opO32ErpqGrppI=
+
+Name: res/mipmap-xhdpi/icon_background.png
+SHA1-Digest: EZTngzkK0vDm2FnDh0WY56YVlrM=
+
+Name: res/mipmap-xhdpi/icon_foreground.png
+SHA1-Digest: DLcvx5CVWWY62nhf6lIlMtjFluM=
+
+Name: res/mipmap-xxhdpi/icon.png
+SHA1-Digest: g2H3EA2BiH+6t4wI1fDhi9zu0Uo=
+
+Name: res/mipmap-xxhdpi/icon_background.png
+SHA1-Digest: rAk+bcKGiWy1Y2tviWjTEqKQZAI=
+
+Name: res/mipmap-xxhdpi/icon_foreground.png
+SHA1-Digest: /cBbzN6FieFFDG6KjSri9WH0dM4=
+
+Name: res/mipmap-xxxhdpi/icon.png
+SHA1-Digest: EEBaVkLMclhSrCF2rDHvN2jbKEI=
+
+Name: res/mipmap-xxxhdpi/icon_background.png
+SHA1-Digest: 0NRtRSwraqoCpxv3Jv6g2Z2Mdxw=
+
+Name: res/mipmap-xxxhdpi/icon_foreground.png
+SHA1-Digest: 6KBYrQ0JPgDq1srP9EjpjHoDUYc=
+
+Name: res/xml/splits0.xml
+SHA1-Digest: SBnCVvY11ftMku7ROvkTNaArq24=
+
+Name: resources.arsc
+SHA1-Digest: Qtlo5+GyuhY000sVslDlhJqa6q8=
+

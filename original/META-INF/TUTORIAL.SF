@@ -1,0 +1,77 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: Gk4mP3gPgRN9Y2TqVs1FYIRXJus=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA1-Digest: qGccCrgFYh0qXdJMJC90tmw1hjk=
+
+Name: assets/boot.ini
+SHA1-Digest: bEBpN+5wSdnvTg47txzLze9/Ios=
+
+Name: billing.properties
+SHA1-Digest: lXs7gowgv5te96gduSd8usKWw0c=
+
+Name: classes.dex
+SHA1-Digest: oLVIGESBejMJUzgJ7QY1cDD9USk=
+
+Name: lib/arm64-v8a/libartemis.so
+SHA1-Digest: jLyjxIvZFxkjf3vXv58yPlM1Z1Y=
+
+Name: res/mipmap-anydpi-v26/icon.xml
+SHA1-Digest: EGVLQnr3jsSu7sO22nytpd+RCxE=
+
+Name: res/mipmap-hdpi/icon.png
+SHA1-Digest: aKQOJD8CEjTY+/zht1x7WUpQ+k8=
+
+Name: res/mipmap-hdpi/icon_background.png
+SHA1-Digest: nkKfTcaEb6/gHN6JslbOh8jXQow=
+
+Name: res/mipmap-hdpi/icon_foreground.png
+SHA1-Digest: kLwOXX0i99wXSlU2hyg8AvozyAo=
+
+Name: res/mipmap-ldpi/icon.png
+SHA1-Digest: vrhGypiDtSY1yaR0ZQpReNl4MoY=
+
+Name: res/mipmap-mdpi/icon.png
+SHA1-Digest: +Ch9LisBv3bQDArnvHN514mFiW8=
+
+Name: res/mipmap-mdpi/icon_background.png
+SHA1-Digest: 8xP6CoyUM6SXx43l7q7d3PYPQ6k=
+
+Name: res/mipmap-mdpi/icon_foreground.png
+SHA1-Digest: 91mWwyQm6HsnKqesO73Je3IO8UQ=
+
+Name: res/mipmap-xhdpi/icon.png
+SHA1-Digest: kbeAnAAf+s/DDK1i3nO2s8c60NE=
+
+Name: res/mipmap-xhdpi/icon_background.png
+SHA1-Digest: 4g8HO4qQO1/9rG7BM5q9Ve9v90M=
+
+Name: res/mipmap-xhdpi/icon_foreground.png
+SHA1-Digest: VROlS7iivw41dKUgkB2MOMxtZA8=
+
+Name: res/mipmap-xxhdpi/icon.png
+SHA1-Digest: pFeyH4uqYNvf2u/34bpoEU7TzaY=
+
+Name: res/mipmap-xxhdpi/icon_background.png
+SHA1-Digest: KbuCgXoVwJIdby2QorYOOTEmq0U=
+
+Name: res/mipmap-xxhdpi/icon_foreground.png
+SHA1-Digest: XtmP8S1xSpnMHitAW1tu1KTysbA=
+
+Name: res/mipmap-xxxhdpi/icon.png
+SHA1-Digest: VG9fORV8unHIP7n6bri9DxthxkQ=
+
+Name: res/mipmap-xxxhdpi/icon_background.png
+SHA1-Digest: Sd+GpPeq6THJJb3hyXjKWll5wAw=
+
+Name: res/mipmap-xxxhdpi/icon_foreground.png
+SHA1-Digest: +g0cBERxwN3k0kqLyu8z4vlNwmk=
+
+Name: res/xml/splits0.xml
+SHA1-Digest: Hi2aM6w1uf2BTXUOcF1f83FTZno=
+
+Name: resources.arsc
+SHA1-Digest: yJKljyNObf7Yfz3skrEpnDWzq70=
+
