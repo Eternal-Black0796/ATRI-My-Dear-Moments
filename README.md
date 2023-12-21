@@ -4,7 +4,7 @@ The first crack on the Google version of ATRI on the whole network, get the modi
 
 - Environment：linux
 - Dependent programs：openjdk-8-jdk
-- Tool:apktool
+- Tool：apktool
 
 ## How to use:
 Dex code and Sign the APK，Don't forget about formatting alignment.Then install apk
